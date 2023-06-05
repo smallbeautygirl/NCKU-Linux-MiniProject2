@@ -16,9 +16,9 @@
 - Test by yourself
 
 ```bash=
-make
-./server & ./client < in > out
-diff -s out ans
+make clean && make all 
+./server <port>
+./client
 ```
 
 ## socket programming

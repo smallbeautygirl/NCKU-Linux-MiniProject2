@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "*.rmd": "markdown",
+    "system_error": "c",
+    "numbers": "c"
+  }
+}
